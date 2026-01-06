@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Application deployed successfully via Jenkins CI/CD Pipeline"
+echo "Updated code deployed automatically using Jenkins"
 
